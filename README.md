@@ -2,103 +2,83 @@
 <h3 align="center">Full Stack Software Developer | Bangladesh</h3>
 
 <p align="center">
-  Building scalable web and mobile applications with modern technologies.
+  Experienced in building scalable web and mobile applications with modern full-stack technologies.
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
-Full Stack Developer with hands-on experience in designing, developing, and maintaining web and mobile applications. Skilled in both frontend and backend technologies, with a strong focus on clean architecture, performance, and maintainability. Currently expanding expertise in modern frontend frameworks.
+## 👨‍💻 Professional Summary
+Full Stack Developer with hands-on experience in government and enterprise-level systems. Skilled in designing, developing, and maintaining secure, scalable applications using modern frontend and backend technologies. Strong understanding of REST APIs, role-based access control, and database-driven systems. Currently enhancing expertise in advanced React.js development.
 
 ---
 
-### 🔧 Current Focus
-- **Project:** Pilgrim Information Management System  
-- **Learning:** React.js (advanced patterns and best practices)  
-- **Expertise:** React, REST APIs, full-stack application development  
+## 🔧 Current Focus
+- Advanced React.js patterns and performance optimization
+- Scalable backend architectures
+- Enterprise application best practices
 
 ---
 
-### 📬 Contact
-- **Email:** azadsmc@gmail.com
+## 🚀 Professional Projects
+
+### ✈️ CAAB ICT – Cargo Automation System
+**Government Aviation Project**
+
+- Contributed to the development of a Cargo Automation System under **Civil Aviation Authority of Bangladesh (CAAB) – ICT Division**.
+- Automated airport cargo operations including registration, processing, tracking, and reporting.
+- Implemented role-based access control for Admin, Operator, and Customs users.
+- Developed RESTful APIs and integrated frontend dashboards for real-time cargo status.
+- Focused on system security, data integrity, and high-availability design.
+
+**Technologies:** React.js, Node.js, Express.js, MySQL/PostgreSQL, REST API, Git, Postman
 
 ---
 
-### 🤝 Professional Networking
+### 🕋 Pilgrim Information Management System (PIMS)
+**Enterprise Web Application**
+
+- Designed and developed a centralized management system for pilgrim registration and monitoring.
+- Streamlined data collection, verification, and reporting processes.
+- Implemented secure authentication and authorization mechanisms.
+- Improved operational efficiency through automated workflows and dashboards.
+
+**Technologies:** React.js, PHP/Laravel, MySQL, Bootstrap, Firebase
+
+---
+
+### 📦 Cargo Management & Tracking System
+**Web-Based Automation Solution**
+
+- Built a cargo booking and tracking system with real-time status updates.
+- Enabled efficient coordination between operations and administration teams.
+- Designed responsive user interfaces with focus on usability and performance.
+- Integrated backend services with frontend components using REST APIs.
+
+**Technologies:** React.js, Node.js, MySQL, REST API
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-  <!-- Add LinkedIn / Portfolio links here when available -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-azad-dev&layout=compact" />
@@ -107,3 +87,8 @@ Full Stack Developer with hands-on experience in designing, developing, and main
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ak-azad-dev&show_icons=true" />
 </p>
+
+---
+
+## 📬 Contact
+- **Email:** azadsmc@gmail.com
