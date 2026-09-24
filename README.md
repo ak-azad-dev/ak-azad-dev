@@ -78,6 +78,6 @@ Developed a centralized application supporting pilgrim registration, information
 
 I welcome conversations about Java development, enterprise applications, and software engineering opportunities.
 
-- **Email:** [azadsmc@gmail.com](mailto:azadsmc@gmail.com)
+- **Email:** [akazad.contact@gmail.com](mailto:akazad.contact@gmail.com)
 - **LinkedIn:** [azad-dev](https://www.linkedin.com/in/azad-dev/)
 - **GitHub:** [ak-azad-dev](https://github.com/ak-azad-dev)
