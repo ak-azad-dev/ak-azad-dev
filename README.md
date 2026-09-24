@@ -1,94 +1,83 @@
-<h1 align="center">Abul Kalam Azad</h1>
-<h3 align="center">Full Stack Software Developer | Bangladesh</h3>
+<h1 align="center">Md. Abul Kalam Azad</h1>
 
 <p align="center">
-  Experienced in building scalable web and mobile applications with modern full-stack technologies.
+  <strong>Software Engineer | Technical Team Lead | Java Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  Java · Spring MVC / Spring Boot · React · Microsoft SQL Server · PostgreSQL
+</p>
+
+<p align="center">
+  Enterprise Application Development · Bangladesh
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azad-dev/">LinkedIn</a> ·
+  <a href="https://github.com/ak-azad-dev">GitHub</a> ·
+  <a href="mailto:azadsmc@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-Full Stack Developer with hands-on experience in government and enterprise-level systems. Skilled in designing, developing, and maintaining secure, scalable applications using modern frontend and backend technologies. Strong understanding of REST APIs, role-based access control, and database-driven systems. Currently enhancing expertise in advanced React.js development.
+## About Me
 
----
+I am a Software Engineer and Java Full-Stack Developer with experience developing, maintaining, and enhancing government and enterprise applications.
 
-## 🔧 Current Focus
-- Advanced React.js patterns and performance optimization
-- Scalable backend architectures
-- Enterprise application best practices
+My work combines Java backend development, React interfaces, relational databases, and technical team leadership. At Excellus Solutions, my responsibilities include technical team leadership for the Civil Aviation Authority of Bangladesh (CAAB) ICT software maintenance project, coordinating development activities, delivering enhancements, and troubleshooting application issues.
 
----
+I focus on maintainable software, reliable business workflows, and practical solutions to complex operational requirements.
 
-## 🚀 Professional Projects
+## Core Skills
 
-### ✈️ CAAB ICT – Cargo Automation System
-**Government Aviation Project**
+| Area | Technologies and Experience |
+| --- | --- |
+| Backend | Java, Spring MVC, Spring Boot, RESTful APIs |
+| Frontend | React, JavaScript, HTML, CSS |
+| Databases | Microsoft SQL Server, PostgreSQL |
+| Reporting | JasperReports, business reporting |
+| Enterprise Applications | Workflow automation, role-based access control, database-driven systems |
+| Technical Leadership | Development coordination, technical problem-solving, application maintenance and delivery |
 
-- Contributed to the development of a Cargo Automation System under **Civil Aviation Authority of Bangladesh (CAAB) – ICT Division**.
-- Automated airport cargo operations including registration, processing, tracking, and reporting.
-- Implemented role-based access control for Admin, Operator, and Customs users.
-- Developed RESTful APIs and integrated frontend dashboards for real-time cargo status.
-- Focused on system security, data integrity, and high-availability design.
+## Selected Professional Work
 
-**Technologies:** React.js, Node.js, Express.js, MySQL/PostgreSQL, REST API, Git, Postman
+### CAAB Enterprise Systems
+**Civil Aviation Authority of Bangladesh — ICT Software Maintenance**
 
----
+Contribute to the maintenance and enhancement of enterprise applications supporting aviation administration and business operations.
 
-### 🕋 Pilgrim Information Management System (PIMS)
+- Coordinate development activities and provide technical guidance.
+- Implement application enhancements and resolve operational issues.
+- Work with database-driven workflows and business reporting.
+- Support systems across cargo operations, HR and payroll, accounting and billing, and provident fund and pension management.
+
+**Technology focus:** Java, Spring MVC / Spring Boot, Microsoft SQL Server, JasperReports.
+
+*This overview describes professional responsibilities at a high level. Internal code, data, architecture, and operational details are not shared.*
+
+### Pilgrim Information Management System (PIMS)
 **Enterprise Web Application**
 
-- Designed and developed a centralized management system for pilgrim registration and monitoring.
-- Streamlined data collection, verification, and reporting processes.
-- Implemented secure authentication and authorization mechanisms.
-- Improved operational efficiency through automated workflows and dashboards.
+Developed a centralized application supporting pilgrim registration, information management, verification, and reporting.
 
-**Technologies:** React.js, PHP/Laravel, MySQL, Bootstrap, Firebase
+- Built backend services with Spring Boot and user interfaces with React.
+- Used PostgreSQL for structured application data.
+- Implemented authentication and authorization for controlled access.
+- Supported administrative workflows through dashboards and reporting.
 
----
+**Technologies:** Java, Spring Boot, React, PostgreSQL.
 
-### 📦 Cargo Management & Tracking System
-**Web-Based Automation Solution**
+## Current Focus
 
-- Built a cargo booking and tracking system with real-time status updates.
-- Enabled efficient coordination between operations and administration teams.
-- Designed responsive user interfaces with focus on usability and performance.
-- Integrated backend services with frontend components using REST APIs.
+- Advanced React patterns and performance optimization.
+- Maintainable Java and Spring application architecture.
+- SQL query optimization and reliable data processing.
+- Effective technical leadership and enterprise application delivery.
 
-**Technologies:** React.js, Node.js, MySQL, REST API
+## Connect
 
----
+I welcome conversations about Java development, enterprise applications, and software engineering opportunities.
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-azad-dev&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-azad-dev&show_icons=true" />
-</p>
-
----
-
-## 📬 Contact
-- **Email:** azadsmc@gmail.com
+- **Email:** [azadsmc@gmail.com](mailto:azadsmc@gmail.com)
+- **LinkedIn:** [azad-dev](https://www.linkedin.com/in/azad-dev/)
+- **GitHub:** [ak-azad-dev](https://github.com/ak-azad-dev)
