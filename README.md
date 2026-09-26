@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/azad-dev/">LinkedIn</a> ·
   <a href="https://github.com/ak-azad-dev">GitHub</a> ·
-  <a href="mailto:azadsmc@gmail.com">Email</a>
+  <a href="mailto:akazad.contact@gmail.com">Email</a>
 </p>
 
 ---
